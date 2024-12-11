@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @BonsaMosisa 
-- 👀 I’m interested in Programming and Data Mining
+- 👋 Hi, I’m @BonsaMosisa
+- 🅱️ Bonsa Adugna Moisa
+- 👀 I’m interested in, Artificial Intelligence, Robotics and Mashine Learning.
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on projects
 
