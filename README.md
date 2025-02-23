@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BonsaMosisa
-- 🅱️ Bonsa Adugna Moisa
+- 🅱️ Bonsa Adugna
 - 👀 I’m interested in, Artificial Intelligence, Robotics and Mashine Learning.
 - 🌱 Interested in Computer Engineering and Game Development
 - 💞️ I’m looking to collaborate on projects
