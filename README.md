@@ -1,7 +1,7 @@
 # 👋 Hello, I'm **Bonsa A. Mosisa**!  
 
 [![GitHub followers](https://img.shields.io/github/followers/BonsaMosisa?label=Follow&style=social)](https://github.com/BonsaMosisa)  
-[![Profile views](https://komarev.com/ghpvc/?username=BonsaMosisa&color=blue)](https://github.com/BonsaMosisa)
+
 
 ---
 
@@ -10,7 +10,7 @@
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Robotics**, and **Computer Engineering**.  
 - 🌱 Currently learning **Full Stack Web Development** and **AI model building**.  
 - 💞️ Open to collaborating on exciting tech projects and innovative solutions.  
-- 📫 Reach me via: [bonsamosisa@gmail.com](mailto:bonsamosisa@gmail.com)
+- 📫 Reach me via: [on.bonimos@gmail.com](mailto:on.bonimos@gmail.com)
 
 ---
 
