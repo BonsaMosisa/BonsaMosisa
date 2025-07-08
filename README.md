@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Robotics** and **AI model building**, and  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Robotics** and **AI model building**.
 - 🌱 Currently learning Software Engineering  and focus on**Full Stack Web Development** 
 - 💞️ Open to collaborating on exciting tech projects and innovative solutions.  
 - 📫 Reach me via: [on.bonimos@gmail.com](mailto:on.bonimos@gmail.com)
