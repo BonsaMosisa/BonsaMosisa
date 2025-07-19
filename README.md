@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Bonsa A. Mosisa**!  
+# 👋 Hello, I'm **Bonsa A. Mosisa**!
 
 [![GitHub followers](https://img.shields.io/github/followers/BonsaMosisa?label=Follow&style=social)](https://github.com/BonsaMosisa)  
 
