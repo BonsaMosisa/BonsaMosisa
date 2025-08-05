@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Robotics** and **AI model building**.
 - 🌱 Currently learning Software Engineering  and focus on**Full Stack Web Development** 
