@@ -27,9 +27,6 @@
 ---
 ## 📊 GitHub Activity Overview
 
-<!-- GitHub Stats Card -->
-![GitHub Activity Overview](https://github-readme-stats.vercel.app/api?username=BonsaMosisa&show_icons=true&hide_border=true&count_private=true&theme=default)
-
 <!-- Contribution Graph -->
 ![GitHub Contribution Graph](https://ghchart.rshah.org/BonsaMosisa)
 
