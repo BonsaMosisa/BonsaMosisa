@@ -13,16 +13,6 @@
 
 ---
 <img src="https://github.com/user-attachments/assets/99750128-132d-4c8e-99d4-c92727f8fbd3" width="600" alt="Technical Skills Banner" />
----
-## 🧪 Contribution Activity
-
-<img src="github_contribution_radar.png" width="400" alt="GitHub Contribution Radar Chart" />
-
-- 🔧 Commits: 55%  
-- 📦 Pull Requests: 44%  
-- 🔍 Code Reviews: 1%  
-- 🐞 Issues: 0%
-
 
 
 ## 🔧 Tools & Technologies  
