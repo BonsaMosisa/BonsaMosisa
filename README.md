@@ -26,12 +26,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Bonsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonsaMosisa&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonsa-a-mosisa/)  
