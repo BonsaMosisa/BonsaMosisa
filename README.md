@@ -24,6 +24,14 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+## 📊 GitHub Activity Overview
+
+<!-- GitHub Stats Card -->
+![GitHub Activity Overview](https://github-readme-stats.vercel.app/api?username=BonsaMosisa&show_icons=true&hide_border=true&count_private=true&theme=default)
+
+<!-- Contribution Graph -->
+![GitHub Contribution Graph](https://ghchart.rshah.org/BonsaMosisa)
+
 
 ## 🌐 Connect with me  
 
