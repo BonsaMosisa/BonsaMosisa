@@ -10,6 +10,7 @@
 - 🌱 Currently learning Software Engineering  and focus on **Full Stack Web Development** as MERN stack developer
 - 💞️ Open to collaborating on exciting tech projects and innovative solutions.  
 - 📫 Reach me via: [top.bonimos@gmail.com](mailto:top.bonimos@gmail.com)
+- 🎨 PORTFOLIO  https://bonsa-a-mosisa.vercel.app
 
 ---
 <img src="https://github.com/user-attachments/assets/99750128-132d-4c8e-99d4-c92727f8fbd3" width="600" alt="Technical Skills Banner" />
