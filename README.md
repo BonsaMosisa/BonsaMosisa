@@ -33,10 +33,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-## 📊 GitHub Activity Overview
 
-<!-- Contribution Graph -->
-![GitHub Contribution Graph](https://ghchart.rshah.org/BonsaMosisa)
 
 
 ## 🌐 Connect with me  
