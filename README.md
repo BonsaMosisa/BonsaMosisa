@@ -23,7 +23,8 @@
 
 ```yaml
 name:        Bonsa Mosisa
-role:        Full Stack Developer · AI/ML Builder
+role:        Software Engineer, Full Stack Developer · Mobile App Developer
+education : Bsc Software Engineering , Jimma Institute of Technology
 location:    Ethiopia 🌍
 focus:       MERN Stack · Flutter · AI ·
 databases:   MySQL · PostgreSQL · MongoDB · Firebase · Supabase
