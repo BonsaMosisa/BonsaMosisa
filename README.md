@@ -14,7 +14,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=7C6DFA&center=true&vCenter=true&width=500&lines=Building+the+future%2C+one+commit+at+a+time;MERN+Stack+%7C+AI+%7C+Machine+Learning;Open+to+collaborating+on+cool+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/BonsaMosisa?label=Follow&style=for-the-badge&color=7C6DFA&labelColor=0d0d1a)](https://github.com/BonsaMosisa)
-[![Profile Views](https://komarev.com/ghpvc/?username=BonsaMosisa&style=for-the-badge&color=4fd1c5&labelColor=0d0d1a)](https://github.com/BonsaMosisa)
 
 </div>
 
