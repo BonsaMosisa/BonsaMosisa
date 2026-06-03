@@ -14,7 +14,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=7C6DFA&center=true&vCenter=true&width=540&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+AI+%7C+Machine+Learning+%7C+Robotics;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Firebase+%7C+Supabase;Deploying+on+cPanel+%7C+Vercel+%7C+Netlify;Open+to+collaborating+on+cool+projects+%E2%9C%85)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/BonsaMosisa?label=Follow&style=for-the-badge&color=7C6DFA&labelColor=0d0d1a)](https://github.com/BonsaMosisa)
-[![Profile Views](https://komarev.com/ghpvc/?username=BonsaMosisa&style=for-the-badge&color=4fd1c5&labelColor=0d0d1a)](https://github.com/BonsaMosisa)
 
 </div>
 
@@ -26,8 +25,7 @@
 name:        Bonsa Mosisa
 role:        Full Stack Developer · AI/ML Builder
 location:    Ethiopia 🌍
-studying:    Software Engineering
-focus:       MERN Stack · AI · Machine Learning · Robotics
+focus:       MERN Stack · Flutter · AI ·
 databases:   MySQL · PostgreSQL · MongoDB · Firebase · Supabase
 deployment:  cPanel · Vercel · Netlify · Docker
 status:      Open to collaboration ✅
@@ -67,7 +65,6 @@ portfolio:   https://bonsa-a-mosisa.vercel.app
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Deployment & Tools**
 
@@ -81,22 +78,6 @@ portfolio:   https://bonsa-a-mosisa.vercel.app
 
 ---
 
-## `// github.stats`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=BonsaMosisa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=7C6DFA&icon_color=4fd1c5&text_color=a0aec0"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsaMosisa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7C6DFA&text_color=a0aec0"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BonsaMosisa&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7C6DFA&ring=4fd1c5&fire=f6ad55&currStreakLabel=f6ad55)
-
-</div>
-
----
 
 ## `// connect.with_me`
 
