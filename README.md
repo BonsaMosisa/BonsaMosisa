@@ -9,7 +9,7 @@
 ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 ```
 
-### `> Full Stack Developer · AI/ML Enthusiast · Robotics`
+### `> Full Stack Developer · Flutter · AI`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=7C6DFA&center=true&vCenter=true&width=540&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+AI+%7C+Machine+Learning+%7C+Robotics;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Firebase+%7C+Supabase;Deploying+on+cPanel+%7C+Vercel+%7C+Netlify;Open+to+collaborating+on+cool+projects+%E2%9C%85)](https://git.io/typing-svg)
 
