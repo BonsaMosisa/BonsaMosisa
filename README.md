@@ -59,16 +59,6 @@ portfolio:   https://bonsa-a-mosisa.vercel.app
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## `// github.stats`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=BonsaMosisa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=7C6DFA&icon_color=4fd1c5&text_color=a0aec0"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsaMosisa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7C6DFA&text_color=a0aec0"/>
-
-</div>
 
 ---
 
